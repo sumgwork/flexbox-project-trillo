@@ -294,10 +294,9 @@
       //   background-size: cover;
       //Newer browsers - masks
       background-color: var(--color-primary);
-      -webkit-mask-image: url(../img/right.svg);
-      -webkit-mask-size: cover;
-      mask-image: url(../img/right.svg);
-      mask-size: cover;
+    //   -webkit-mask-image: url(../img/right.svg); //   -webkit-mask-size: cover;
+//   mask-image: url(../img/right.svg);
+//   mask-size: cover;
     }
   }
 }

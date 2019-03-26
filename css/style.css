@@ -253,11 +253,7 @@ body {
       height: 1rem;
       width: 1rem;
       margin-right: 0.7rem;
-      background-color: var(--color-primary);
-      -webkit-mask-image: url(../img/right.svg);
-      -webkit-mask-size: cover;
-      mask-image: url(../img/right.svg);
-      mask-size: cover; }
+      background-color: var(--color-primary); }
 
 .recommend {
   font-size: 1.3rem;
